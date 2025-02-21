@@ -57,7 +57,7 @@ function NavigationHeader() {
           <div className="flex items-center gap-4">
             <SignedOut>
               <Link
-                href="/pricing"
+                href="/"
                 className="flex items-center gap-2 px-4 py-1.5 rounded-lg border border-amber-500/20
                  hover:border-amber-500/40 bg-gradient-to-r from-amber-500/10 
                 to-orange-500/10 hover:from-amber-500/20 hover:to-orange-500/20 transition-all 
